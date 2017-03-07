@@ -4,7 +4,7 @@
 
 L’agence Bonus Voyages cherche à mettre en valeur son catalogue de voyages.
 
-[Le brief](bref.pdf)
+[Le brief](brief.pdf)
 
 ## Consignes & conseils
 
